@@ -1,2 +1,2 @@
 # maven
-poll scm
+new webhook
